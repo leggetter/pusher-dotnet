@@ -1,0 +1,6 @@
+[submodule "pusher-dotnet-client"]
+	path = pusher-dotnet-client
+	url = https://github.com/leggetter/pusher-dotnet-client
+[submodule "pusher-dotnet-server"]
+	path = pusher-dotnet-server
+	url = https://github.com/leggetter/pusher-dotnet-server
